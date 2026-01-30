@@ -35,7 +35,7 @@ func getAlbums(c *gin.Context) {
 	c.IndentedJSON(http.StatusOK, albums)
 }
 
-// postAlbums adds an album from JSON received in the request body
+// postAlbum adds an album from JSON received in the request body
 func postAlbum(c *gin.Context) {
 	var newAlbum album
 
