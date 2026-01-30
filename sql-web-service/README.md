@@ -1,0 +1,1 @@
+Pet project to learn how to implement a basic REST api that fetches data from a sql database in Golang, using the [gin](https://gin-gonic.com/en/docs/) and the [database/sql](https://pkg.go.dev/database/sql) package,
